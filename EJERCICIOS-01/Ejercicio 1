@@ -1,0 +1,18 @@
+# EJERCICIOS-01 #
+# 1. Calcular el volumen de una esfera cuyo radio es de 5 cm: #
+
+print("1. Calcular el volumen de una esfera cuyo radio es de 5 cm:")
+print()
+
+import math
+
+# Datos
+r = 5                           # r = radio en cm
+
+# Formula matemática:
+v = (4/3) * math.pi * r**3      # v = volumen en cm
+
+print(v)
+
+print()
+print("El volumen de una esfera cuyo radio es de 5 cm es =", v)
