@@ -45,5 +45,3 @@ resultado_kurtosis = calcular_kurtosis(x)
 print(f"Datos: {x}")
 print(f"Skewness (Asimetría): {resultado_skewness:.4f}")
 print(f"Kurtosis (Curtosis): {resultado_kurtosis:.4f}")
-
-```
